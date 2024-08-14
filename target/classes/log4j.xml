@@ -24,7 +24,7 @@
 		<level value="info" />
 	</logger>
 	
-	<logger name="org.springframework.context">
+	<logger name="org.springframework.contfext">
 		<level value="info" />
 	</logger>
 
